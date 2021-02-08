@@ -38,7 +38,7 @@
 				<workerType>micro</workerType>
 				<applicationName>KishoreJenkin</applicationName>
 				<muleVersion>4.3.0</muleVersion>
-				
+				<ObjectStore>v2</ObjectStore>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
