@@ -35,8 +35,6 @@
 				<username>Rajanath1111</username>
 				<password>Raja@8225</password>
 				<environment>Sandbox</environment>
-				<workers>1</workers>
-				<workerType>micro</workerType>
 				<applicationName>KishoreJenkin</applicationName>
 				<muleVersion>4.3.0</muleVersion>
 				</cloudHubDeployment>
